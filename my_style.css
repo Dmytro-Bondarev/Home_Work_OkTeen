@@ -1,0 +1,30 @@
+body {
+    background-color: papayawhip;
+    text-align: center;
+}
+li{
+    margin-left: 41%;
+    width: 160px;
+}
+h5{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+.color {background-color: rgb(160, 255, 201);
+}
+.style {
+    overflow: hidden;
+    background: yellow;
+}
+
+p{
+    text-align: center;
+    background: rgb(160, 255, 201);
+    width: 400px;
+    height: 200px;
+    overflow: auto;
+    box-sizing: border-box;
+
+
