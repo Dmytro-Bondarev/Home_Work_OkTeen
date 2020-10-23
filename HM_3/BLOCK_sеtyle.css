@@ -1,62 +1,44 @@
-body{
-    margin: 0;
-}
 
 .black_block{
-    background-color: black;
-    width: 610px;
-    height: 610px;
-    position: relative;
+    border: 10px solid black;
+    height: 600px;
+    width: 800px;
 }
 .yellow_block_1{
     background-color: yellow;
-    width: 600px;
-    height: 200px;
-    position: absolute;
-    top: 5px;
-    left: 5px;
+    height: 100px;
+    clear: both;
        
 }
 .rad_block{
     background-color: rgb(255, 0, 0);
-    width: 150px;
-    height: 200px;
-    position: absolute;
-    top: 205px;
-    left: 5px;
+    width: 25%;
+    height: 400px;
+    float: left;
 
 }
 .green_block{
     background-color: rgb(21, 255, 0);
-    width: 150px;
-    height: 200px;
-    position: absolute;
-    top: 205px;
-    left: 155px;
+    width: 25%;
+    height: 400px;
+    float: left;
 
 }
 .blue_block{
     background-color: rgb(0, 47, 255);
-    width: 150px;
-    height: 200px;
-    position: absolute;
-    top: 205px;
-    left: 305px;
+    width: 25%;
+    height: 400px;
+    float: left;
 
 }
 .pink_block{
     background-color: rgb(255, 0, 200);
-    width: 150px;
-    height: 200px;
-    position: absolute;
-    top: 205px;
-    left: 455px;
+    width: 25%;
+    height: 400px;
+    float: left;
 }
 .yellow_block_2{
     background-color: yellow;
-    width: 600px;
-    height: 200px;
-    position: absolute;
-    top: 400px;
-    left: 5px;
+    height: 100px;
+    clear: both; 
 }
