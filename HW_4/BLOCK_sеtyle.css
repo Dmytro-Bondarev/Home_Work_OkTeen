@@ -1,0 +1,39 @@
+
+.black_block{
+    border: 10px solid black;
+    width: 600px;
+    height: 600px;
+}
+.yellow_block_1{
+    background-color: yellow;
+    width: 100%;
+    height: 100px;     
+}
+.row{
+    display: flex;
+}
+.rad_block{
+    background-color: rgb(255, 0, 0);
+    width: 25%;
+    height: 400px;
+}
+.green_block{
+    background-color: rgb(21, 255, 0);
+    width: 25%;
+    height: 400px;
+}
+.blue_block{
+    background-color: rgb(0, 47, 255);
+    width: 25%;;
+    height: 400px;
+}
+.pink_block{
+    background-color: rgb(255, 0, 200);
+    width: 25%;;
+    height: 400px;
+}
+.yellow_block_2{
+    background-color: yellow;
+    width: 100%;
+    height: 100px; 
+}

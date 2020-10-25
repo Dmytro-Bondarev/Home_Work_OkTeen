@@ -1,0 +1,40 @@
+.Bord_1{
+    display: flex;
+    justify-content: center;
+
+}
+.Bord_1>div {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+.Bord_2{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(87, 22, 22)
+}
+.Bord_2>div {
+    color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.Bord_3{
+    display: flex;
+    justify-content: center;
+}
+.Bord_3>div {
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;}
+.Bord_2>div>h3{
+    margin-top: 50%;
+}
+
+   
